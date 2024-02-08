@@ -1,12 +1,20 @@
-这是一个可 fork 的博客模板仓库，帮助你快速搭建自己的博客，可以参考我博客的[这篇文章]( https://lemonchann.github.io/create_blog_with_github_pages/ )详细指导搭建步骤。
+### 有关博客
 
-### 文章版权
-
-`_posts` 文件夹内所有文章版权归我所有，转载需联系我获得授权。
+此博客中内容均为为本人自学与学校所授内容的整理，如有雷同实属巧合。
 
 
 
 ### 致谢
 
-感谢lemon提供的博客框架。
+感谢lemon提供的博客框架，以下为其项目链接[可 fork 的博客教程模板](https://github.com/lemonchann/lemonchann.github.io)
+
+
+
+### 个人联系方式
+
+* wechat
+
+  ![wechat](https://s2.loli.net/2024/02/08/2engmvTuHqoWkry.jpg)
+
+* linkedin
 
